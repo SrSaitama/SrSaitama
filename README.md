@@ -2,7 +2,7 @@
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sr_saitama_h10/)
 
-![SrSaiatama's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrSaitama&show_icons=true&theme=merko)
+![SrSaiatama's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrSaitama&show_icons=true&theme=algolia)
 
 
 ### Tecnologia que costumo usar:
@@ -34,4 +34,15 @@
     <img/ aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 </div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrSaitama)](https://github.com/SrSaitama/github-readme-stats)
+
+
+
+
+
+<!--
+![SrSaiatama's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrSaitama&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrSaitama&layout=compact)](https://github.com/SrSaitama/github-readme-stats)
 
