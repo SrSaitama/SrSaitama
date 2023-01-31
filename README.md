@@ -18,6 +18,7 @@
     <img/ aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div></br>
 
+##
 
 ### Programas que utilizo:
 <div style="display: inline_block">
@@ -25,6 +26,8 @@
     <img/ aling="center" alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
     <img/ aling="center" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </div></br>
+
+##
 
 ### Tecnologias que estou aprendendo:
 
