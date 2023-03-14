@@ -1,3 +1,4 @@
+<!--
 <h2>Hi, it's a pleasure to have you here!<h2>
 <div style="display: inline_block"> 
      <img src="https://media.tenor.com/HmbBSvvOPBgAAAAC/saittama-one.gif"width="100px">
